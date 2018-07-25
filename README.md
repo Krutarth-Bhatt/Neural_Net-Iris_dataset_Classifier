@@ -17,3 +17,6 @@ the activations from 1st to 2ad layer is relu and in 2ad-3rd layer is softmax.
 This code is written in python 3.6   
   
 By running this code output will be accuracy of the trained model over testing data ie test_iris.csv and the graph of Cost function  vs no of iteration.
+
+<B>Special Note::</b>
+This is a <b>Multipurpose Neural-Net</b> there are three functions params_init, train, and test in these functions any size of neural net can be feed with any other data like mnist or other which can be solved with simple neural net.
